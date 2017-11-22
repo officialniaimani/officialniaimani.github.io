@@ -1,0 +1,16 @@
+---Nia Terminal CheatSheet----
+
+git status
+git add . 
+git status
+git commit -am "description of changes"
+git push -u origin master
+
+
+history
+history | grep <searchTerm> ###  filters history by searchTerm
+
+touch ### Creates empty file
+ex.
+	touch someRandomFile.txt ### Creates empty .txt file named someRandomFile in the current directoty
+
